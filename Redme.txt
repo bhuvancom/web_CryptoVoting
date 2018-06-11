@@ -1,0 +1,3 @@
+Create db name it election
+import sql file
+admin can be added by double clicking on Control Panel and entering AKASH when promped
